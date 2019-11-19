@@ -17,7 +17,7 @@
         tools:listitem="@layout/item_todo"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/main_fab"
+        android:id="@+id/main_fab_intent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
